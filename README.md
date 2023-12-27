@@ -1,6 +1,6 @@
 # GPT3 Website
 
-### Screenshots
+### Screenshot
 ![](./public/screenshots/Screenshot01.png)
 ![](./public/screenshots/Screenshot02.png)
 ![](./public/screenshots/Screenshot03.png)
